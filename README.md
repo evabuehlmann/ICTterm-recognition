@@ -1,10 +1,10 @@
 ## Recognition of ICT terms in German JobAds
-### Scripts/Data related to Bachelor Thesis, Eva Bühlmann
+### Scripts related to Bachelor Thesis
 
 #### Scripts
 * **extract_sample-0.py** 
 
-Script to extract Samples based on ICT-termlist
+Script to extract Samples based on ICT-keywords (ICT-termlist_for_sampling.txt). 
 
 * **extract_topic-based-samples.py**
 
