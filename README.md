@@ -2,11 +2,12 @@
 ### Scripts related to Bachelor Thesis
 
 #### Scripts
-* **extract_sample-0.py'** 
+* **extract_sample-0.py** 
 
 Script to extract Samples based on ICT-termlist
 
 * **extract_topic-based-samples.py**
+
 Script to extract Samples based on topics assignments (de-jobads.model.topic_assignments.jsonl.bz2)
 
 #### Data
