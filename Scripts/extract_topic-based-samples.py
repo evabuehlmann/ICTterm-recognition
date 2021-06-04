@@ -173,13 +173,12 @@ def extract_text(ad_content, zones, threshold):
 
     # get positions of all tokens in selected zones:
     pos_selected_zones = set()
-    last_position = None
     pos_selected_all = []
     for el in ad_content.iter("token", "space"):
         position = int(el.get('position'))
         if int(el.get('zone')) // 10 * 10 in zones:
             pos_selected_zones.add(position)
-            last_position = position
+        last_position = position
 
         if len(pos_selected_zones) < 1:  # If ad doesn't contain any text from selected zones ->ignore it
             continue
