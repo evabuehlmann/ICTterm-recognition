@@ -1,4 +1,8 @@
-# BA: Recognition of ICT terms in German JobAds
-## A Case Study in Bootstrapping aBERT-based NER model
+## Recognition of ICT terms in German JobAds
+### Scripts related to Bachelor Thesis
 
-Coming soon
+####Scripts
+
+
+####Data
+

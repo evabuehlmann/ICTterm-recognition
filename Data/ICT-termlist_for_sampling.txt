@@ -1,0 +1,258 @@
+ICT‐Einzelkompetenzen
+Co‐array Fortran
+F#
+Strukturierter Text
+C++
+Java
+C Sharp
+C‐‐
+JavaScript
+A#
+A+
+HTML
+.NET‐Entwicklung
+CSS
+C#.NET
+PHP
+XML
+Programmiersprache
+Action
+ABAP
+Visual Basic
+Together
+Python
+UML
+ConTeXt
+PL SQL
+Objektorientierte Programmiersprache
+ActionScript
+Progres
+AML
+Perl
+Scriptsprachen
+Erlang
+VB.net
+Ajax
+Shell‐Skript
+SQL
+Oracle
+Microsoft SQL Server
+Microsoft Access Database
+Oracle Database
+MySQL
+Relationale Datenbank
+MVC
+Datenmodellierung
+Datenbankdesign
+Lotus Notes
+Dokumentenmanagementsystem
+DB/2
+Netzsicherheit
+Postgres
+Database Administration
+Java EE
+Spring‐Framework
+ASP.NET
+jQuery
+Komponentenframeworks
+Visual Studio .NET
+Hibernate
+Tomcat
+Bootstrap (Framework)
+.NET Compact Framework
+JUnit
+Track+
+Git
+Forms
+Apache Maven
+Jira
+Eclipse
+JSP/JSF
+JSON
+Enterprise Java Beans
+Version Control
+LabVIEW
+IT‐Testing
+Software‐Test
+Test‐Automatisierung
+Windows Communication Foundation
+JPA
+Java Message Service
+ERP
+SAP
+Abacus
+SAP FI
+SAP R/3
+SAGE
+SAP IM
+SAP ERP
+Microsoft Dynamics
+SAP BC
+Advanced Planning System
+SAP HCM
+Salesforce CRM
+SAP BI
+SAP HR
+Microsoft Dynamics CRM
+CPA
+SAP BO
+SAP MM
+SAP SD
+Microsoft Axapta
+SAP MM‐SD
+Dynamics NAV
+SAP CRM
+Excel
+Word
+PowerPoint
+Adobe Acrobat
+Standardanwendungssoftware
+Conduit
+Mindware
+Computerprogramm
+Ambient
+Front Row
+IT Test Koordination
+EDV‐System
+SaaS
+Pivottabelle
+BPMN
+Installationsprogramm
+Aptitude
+Citrix
+Microsoft System Center Configuration Manager
+Cognos
+Microsoft Operations Manager
+Ticketing System
+Outlook
+E‐Mail
+MS Exchange Server
+Avaloq
+Buchhaltungsprogramm
+Geografisches Informationssystem (GIS)
+Business Software
+RIMO R4
+Fidelio
+CRS
+IT‐Anwendung
+Computer System Validation
+Configuration Management
+Service Desk
+IT‐Services
+Serviceprovider
+Informationssystem
+IT Lösungskonzepte
+IT System Administration
+Rollout Management
+SOA
+3rd Level IT Support
+IT‐Betrieb
+Dokumentenmanagement
+IT‐Service‐Management
+System Management
+System Engineering
+Web Services
+LAN
+Cisco
+IS‐IS
+Cloud Computing
+IP
+TCP/IP
+SOAP
+Routing
+DNS
+Glasfaser
+WAN
+Switching
+VPN
+ZIP
+DV‐Netzwerk
+Netzbau
+Telefonie
+Mobile Applikationen
+WLAN
+Computer Aided Design
+AutoCAD
+3D‐Modellierung
+ArchiCAD
+SolidWorks
+CAM
+Messerli Software
+CATIA
+Inventor
+TARGET
+Mastercam
+SPIRIT
+Schaltpläne
+VectorWorks
+Advance
+CAS
+Allplan
+EPLAN
+Cadwork
+Photoshop
+Adobe InDesign
+Skype
+Adobe Illustrator
+User Interface
+HiRes
+Visio
+Windows Presentation Foundation
+Adobe Creative Suite
+Audio
+Grafikbearbeitungs‐Software
+Bildbearbeitung
+Computer
+Controller
+Projektoren
+Server
+IT Infrastruktur
+Rechenzentrum
+HP
+Mac
+PowerCD
+IBM
+Modem
+Team Foundation Server
+Drucker
+Hardware Entwicklung
+Microsoft Windows SharePoint Services
+Web‐Installationen
+Webanwendung
+Internet‐Technologien
+IT‐Reporting
+Web‐Publishing
+Web Desktop
+Registrierung
+.Mac
+IIS
+Opera
+Browser
+Intranet
+Websphere
+Weblogic
+Data Warehouse
+Datamining
+Business Intelligence (BI)
+Entscheidungsunterstützung
+ETL
+SAP BW
+Informatica
+TYPO3
+Content und Contentmanagement
+Wordpress
+Drupal
+Microsoft Windows
+Windows Server
+iOS
+Android
+Windows 7
+Operating System
+Sun Solaris
+Active Directory
+Storage
+SAN
+IT‐Sicherheit
+Firewall
+Intrusion Prevention System
+Backup

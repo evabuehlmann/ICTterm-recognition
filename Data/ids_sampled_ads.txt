@@ -1,0 +1,723 @@
+Sample	Ad-ID	source	year	topic	source-file
+Sample-0	x28-6508613	x28	2015	ICT-term-based
+Sample-0	x28-14349494	x28	2018	ICT-term-based
+Sample-0	x28-6615508	x28	2015	ICT-term-based
+Sample-0	x28-14496939	x28	2017	ICT-term-based
+Sample-0	x28-8334509	x28	2015	ICT-term-based
+Sample-0	x28-14848068	x28	2018	ICT-term-based
+Sample-0	x28-7917783	x28	2015	ICT-term-based
+Sample-0	x28-6600010	x28	2015	ICT-term-based
+Sample-0	x28-13972049	x28	2017	ICT-term-based
+Sample-0	x28-15301881	x28	2018	ICT-term-based
+Sample-0	x28-14595252	x28	2018	ICT-term-based
+Sample-0	x28-4923415	x28	2014	ICT-term-based
+Sample-0	x28-15654258	x28	2018	ICT-term-based
+Sample-0	x28-14179805	x28	2017	ICT-term-based
+Sample-0	x28-13828296	x28	2017	ICT-term-based
+Sample-0	x28-14774842	x28	2017	ICT-term-based
+Sample-0	x28-12226789	x28	2016	ICT-term-based
+Sample-0	x28-10620180	x28	2016	ICT-term-based
+Sample-0	x28-11948672	x28	2016	ICT-term-based
+Sample-0	x28-555587	x28	2014	ICT-term-based
+Sample-0	x28-10048243	x28	2016	ICT-term-based
+Sample-0	x28-10103877	x28	2016	ICT-term-based
+Sample-0	x28-6226782	x28	2014	ICT-term-based
+Sample-0	x28-6084587	x28	2014	ICT-term-based
+Sample-0	x28-5465103	x28	2014	ICT-term-based
+Sample-0	adecco-8201630467001962	adecco	2016	ICT-term-based
+Sample-0	sjmm-32011190010962	sjmm	2011	ICT-term-based
+Sample-0	adecco-6201629018032889	adecco	2016	ICT-term-based
+Sample-0	adecco-8201742713003571	adecco	2017	ICT-term-based
+Sample-0	adecco-8201620501002748	adecco	2016	ICT-term-based
+Sample-0	adecco-8201821313002735	adecco	2018	ICT-term-based
+Sample-0	adecco-6201549019032399	adecco	2015	ICT-term-based
+Sample-0	adecco-8201640535002726	adecco	2016	ICT-term-based
+Sample-0	adecco-8201820322002003	adecco	2018	ICT-term-based
+Sample-0	adecco-8201910104000646	adecco	2019	ICT-term-based
+Sample-0	adecco-8201711766002740	adecco	2017	ICT-term-based
+Sample-0	sjmm-22011108112014	sjmm	2011	ICT-term-based
+Sample-0	adecco-8201741978003343	adecco	2017	ICT-term-based
+Sample-0	sjmm-32016190190081	sjmm	2016	ICT-term-based
+Sample-0	adecco-8201620089003414	adecco	2016	ICT-term-based
+Sample-0	adecco-8201821188001586	adecco	2018	ICT-term-based
+Sample-0	adecco-8201941288003637	adecco	2019	ICT-term-based
+Sample-0	sjmm-72017112093295	sjmm	2017	ICT-term-based
+Sample-0	sjmm-72015114223339	sjmm	2015	ICT-term-based
+Sample-0	sjmm-32010190010280	sjmm	2010	ICT-term-based
+Sample-0	adecco-8201730173003444	adecco	2017	ICT-term-based
+Sample-0	adecco-8201710535001636	adecco	2017	ICT-term-based
+Sample-0	adecco-8201541773003828	adecco	2015	ICT-term-based
+Sample-0	adecco-6201949003021629	adecco	2019	ICT-term-based
+Sample-0	adecco-8201941228000858	adecco	2019	ICT-term-based
+Sample-0	adecco-8201911795003674	adecco	2019	ICT-term-based
+Sample-0	adecco-8201820482003903	adecco	2018	ICT-term-based
+Sample-0	adecco-8201540173003660	adecco	2015	ICT-term-based
+Sample-0	sjmm-32019190010460	sjmm	2019	ICT-term-based
+Sample-0	sjmm-12001111200013	sjmm	2001	ICT-term-based
+Sample-0	sjmm-12010142160002	sjmm	2010	ICT-term-based
+Sample-0	adecco-8202020803003508	adecco	2020	ICT-term-based
+Sample-0	sjmm-32016190070819	sjmm	2016	ICT-term-based
+Sample-0	adecco-8202021286003627	adecco	2020	ICT-term-based
+Sample-0	adecco-8202022396002408	adecco	2020	ICT-term-based
+Sample-0	adecco-6202019014017428	adecco	2020	ICT-term-based
+Sample-0	sjmm-12002131120031	sjmm	2002	ICT-term-based
+Sample-0	adecco-6202029020000595	adecco	2020	ICT-term-based
+Sample-0	adecco-8201821200000328	adecco	2018	ICT-term-based
+Sample-0	sjmm-32018190010218	sjmm	2018	ICT-term-based
+Sample-0	sjmm-72015101733124	sjmm	2015	ICT-term-based
+Sample-0	adecco-8201540550003427	adecco	2015	ICT-term-based
+Sample-0	adecco-8201540445000429	adecco	2015	ICT-term-based
+Sample-0	sjmm-32017190172077	sjmm	2017	ICT-term-based
+Sample-0	sjmm-12008141170018	sjmm	2008	ICT-term-based
+Sample-0	sjmm-32018190031164	sjmm	2018	ICT-term-based
+Sample-0	sjmm-32019190200671	sjmm	2019	ICT-term-based
+Sample-0	sjmm-12003131070030	sjmm	2003	ICT-term-based
+Sample-0	sjmm-12009111200009	sjmm	2009	ICT-term-based
+Sample-0	sjmm-12014141170026	sjmm	2014	ICT-term-based
+Sample-0	sjmm-12008121110016	sjmm	2008	ICT-term-based
+Sample-0	sjmm-12005121110010	sjmm	2005	ICT-term-based
+Sample-0	sjmm-12003112120001	sjmm	2003	ICT-term-based
+Sample-0	sjmm-12001112080002	sjmm	2001	ICT-term-based
+Sample-0	sjmm-12006141140013	sjmm	2006	ICT-term-based
+Sample-0	sjmm-12002131170010	sjmm	2002	ICT-term-based
+Sample-0	sjmm-12007141190002	sjmm	2007	ICT-term-based
+Sample-0	sjmm-12004131120037	sjmm	2004	ICT-term-based
+Sample-0	sjmm-12009151060013	sjmm	2009	ICT-term-based
+Sample-0	sjmm-12006131120004	sjmm	2006	ICT-term-based
+Sample-0	sjmm-12013141240009	sjmm	2013	ICT-term-based
+Sample-0	sjmm-12004131200002	sjmm	2004	ICT-term-based
+Sample-0	sjmm-12012131070002	sjmm	2012	ICT-term-based
+Sample-0	sjmm-12007131180045	sjmm	2007	ICT-term-based
+Sample-0	sjmm-12005131200003	sjmm	2005	ICT-term-based
+Devset-0 sjmm-72018105053880	sjmm	2018	ICT-term-based	ads_annotated_18_LSTM_v5.xml.bz2
+Devset-0	sjmm-72019109543590	sjmm	2019	ICT-term-based	ads_annotated_19_LSTM_v5.xml
+Devset-0	sjmm-32010190050232	sjmm	2010	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-12008131070007	sjmm	2008	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-12004121020004	sjmm	2004	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-12014122040004	sjmm	2014	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-12006131120051	sjmm	2006	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-12012121110011	sjmm	2012	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-12002131010007	sjmm	2002	ICT-term-based	ads_manual_annotated_5014_v5.xml.bz2
+Devset-0	sjmm-32016190070841	sjmm	2016	ICT-term-based	ads_annotated_1516_LSTM_v5.xml.bz2
+Devset-0	adecco-8201711288003505	adecco	2017	ICT-term-based	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+Devset-0	adecco-8201710501003788	adecco	2017	ICT-term-based	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+Devset-0	adecco-8201920823000617	adecco	2019	ICT-term-based	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+Devset-0	adecco-8201921788003623	adecco	2019	ICT-term-based	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+Devset-0	adecco-8201642237001758	adecco	2016	ICT-term-based	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+Devset-0	adecco-8201640776001555	adecco	2016	ICT-term-based	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+Devset-0	adecco-6201849008004599	adecco	2018	ICT-term-based	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+Devset-0	adecco-8201840448000480	adecco	2018	ICT-term-based	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+Devset-0	adecco-8202011492004527	adecco	2020	ICT-term-based	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+Devset-0	adecco-8202010456000548	adecco	2020	ICT-term-based	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+Devset-0	adecco-8201540173003663	adecco	2015	ICT-term-based	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+Devset-0	adecco-8201540822001986	adecco	2015	ICT-term-based	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+Devset-0	x28-12433487	x28	2016	ICT-term-based	ads_zoned_2016-10-15_part8_.xml.bz2
+Devset-0	x28-12544167	x28	2016	ICT-term-based	ads_zoned_2016-10-15_part8_.xml.bz2
+Devset-0	x28-15510633	x28	2017	ICT-term-based	ads_zoned_2017-12-15_part15.xml.bz2
+Devset-0	x28-15515367	x28	2017	ICT-term-based	ads_zoned_2017-12-15_part15.xml.bz2
+Devset-0	x28-15746471	x28	2018	ICT-term-based	ads_zoned_2018-08-15_part5_.xml.bz2
+Devset-0	x28-15807762	x28	2018	ICT-term-based	ads_zoned_2018-08-15_part5_.xml.bz2
+Devset-0	x28-6355383	x28	2014	ICT-term-based	ads_zoned_2014-11-15_part10.xml.bz2
+Devset-0	x28-6354587	x28	2014	ICT-term-based	ads_zoned_2014-11-15_part10.xml.bz2
+Devset-0	x28-4707670	x28	2015	ICT-term-based	ads_zoned_2015-03-15_part2_.xml.bz2
+Devset-0	x28-3913666	x28	2015	ICT-term-based	ads_zoned_2015-03-15_part2_.xml.bz2
+ICT-sample1	sjmm-32017190140767	sjmm	2017	25	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-sample1	sjmm-32017190010982	sjmm	2017	21	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-sample1	sjmm-32017190010865	sjmm	2017	4	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-sample1	sjmm-32018190030855	sjmm	2018	24	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-sample1	sjmm-32018190030867	sjmm	2018	25	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-sample1	sjmm-72018103102838	sjmm	2018	24	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-sample1	sjmm-32019190031133	sjmm	2019	4	ads_annotated_19_LSTM_v5.xml
+ICT-sample1	sjmm-32019190010392	sjmm	2019	4	ads_annotated_19_LSTM_v5.xml
+ICT-sample1	sjmm-72019112883701	sjmm	2019	21	ads_annotated_19_LSTM_v5.xml
+ICT-sample1	sjmm-22010112341462	sjmm	2010	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-22010109711997	sjmm	2010	25	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-32011190041436	sjmm	2011	25	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-32010190040012	sjmm	2010	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-32011190020461	sjmm	2011	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-32011190030638	sjmm	2011	25	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12013112100003	sjmm	2013	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12009121110013	sjmm	2009	25	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12003111200004	sjmm	2003	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12001131180011	sjmm	2001	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12002141190014	sjmm	2002	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12008131120020	sjmm	2008	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12009151060005	sjmm	2009	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12003131120031	sjmm	2003	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12005121110006	sjmm	2005	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12007121110015	sjmm	2007	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12009131170002	sjmm	2009	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12004131120005	sjmm	2004	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12012141140010	sjmm	2012	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12012131050014	sjmm	2012	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12007121110014	sjmm	2007	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12004131070025	sjmm	2004	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12008131120006	sjmm	2008	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12003121110013	sjmm	2003	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12014151020003	sjmm	2014	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12004121110003	sjmm	2004	24	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12012141170018	sjmm	2012	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12007121020022	sjmm	2007	4	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	sjmm-12001131070040	sjmm	2001	21	ads_manual_annotated_5014_v5.xml.bz2
+ICT-sample1	adecco-8201841795003630	adecco	2018	24	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+ICT-sample1	adecco-6201849001015460	adecco	2018	21	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+ICT-sample1	adecco-8201840444002927	adecco	2018	21	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+ICT-sample1	adecco-8201840536001320	adecco	2018	24	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+ICT-sample1	adecco-8201841329001444	adecco	2018	24	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+ICT-sample1	adecco-8201840173003461	adecco	2018	24	ads_annotated_ji_instexte_2018_4_v5.xml.bz2
+ICT-sample1	adecco-8201730173003447	adecco	2017	24	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+ICT-sample1	adecco-8201730173003443	adecco	2017	24	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+ICT-sample1	adecco-6201739001026111	adecco	2017	4	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+ICT-sample1	adecco-8201730763004084	adecco	2017	4	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+ICT-sample1	adecco-8201730001001036	adecco	2017	4	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+ICT-sample1	adecco-8201730086000988	adecco	2017	4	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+ICT-sample1	adecco-8202011773004573	adecco	2020	24	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+ICT-sample1	adecco-8202010531004129	adecco	2020	21	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+ICT-sample1	adecco-8202010086001053	adecco	2020	4	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+ICT-sample1	adecco-6202019019017521	adecco	2020	24	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+ICT-sample1	adecco-8202010173003509	adecco	2020	24	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+ICT-sample1	adecco-8202010486000116	adecco	2020	4	ads_annotated_ji_instexte_2020_1_v5.xml.bz2
+ICT-sample1	adecco-6201619001000327	adecco	2016	24	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-sample1	adecco-8201611780000589	adecco	2016	25	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-sample1	adecco-8201611795003291	adecco	2016	21	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-sample1	adecco-6201619017030094	adecco	2016	24	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-sample1	adecco-8201610428003428	adecco	2016	21	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-sample1	adecco-8201610535001558	adecco	2016	24	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-sample1	adecco-8201930938004111	adecco	2019	24	ads_annotated_ji_instexte_2019_3_v5.xml.bz2
+ICT-sample1	adecco-8201930173003365	adecco	2019	24	ads_annotated_ji_instexte_2019_3_v5.xml.bz2
+ICT-sample1	adecco-6201939001009080	adecco	2019	21	ads_annotated_ji_instexte_2019_3_v5.xml.bz2
+ICT-sample1	adecco-8201930521001019	adecco	2019	4	ads_annotated_ji_instexte_2019_3_v5.xml.bz2
+ICT-sample1	adecco-8201931151000356	adecco	2019	21	ads_annotated_ji_instexte_2019_3_v5.xml.bz2
+ICT-sample1	adecco-8201931162001967	adecco	2019	4	ads_annotated_ji_instexte_2019_3_v5.xml.bz2
+ICT-sample1	adecco-6201549003002164	adecco	2015	21	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-sample1	adecco-8201541186002186	adecco	2015	21	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-sample1	x28-13089285	x28	2016	21	ads_zoned_2016-12-15_part8_.xml.bz2
+ICT-sample1	x28-13126201	x28	2016	25	ads_zoned_2016-12-15_part8_.xml.bz2
+ICT-sample1	x28-13126204	x28	2016	25	ads_zoned_2016-12-15_part8_.xml.bz2
+ICT-sample1	x28-13046542	x28	2016	21	ads_zoned_2016-12-15_part8_.xml.bz2
+ICT-sample1	x28-13153399	x28	2016	21	ads_zoned_2016-12-15_part8_.xml.bz2
+ICT-sample1	x28-13069175	x28	2016	4	ads_zoned_2016-12-15_part8_.xml.bz2
+ICT-sample1	x28-11773924	x28	2017	4	ads_zoned_2017-04-15_part2_.xml.bz2
+ICT-sample1	x28-10449561	x28	2017	4	ads_zoned_2017-04-15_part2_.xml.bz2
+ICT-sample1	x28-10685670	x28	2017	4	ads_zoned_2017-04-15_part2_.xml.bz2
+ICT-sample1	x28-11895760	x28	2017	4	ads_zoned_2017-04-15_part2_.xml.bz2
+ICT-sample1	x28-11030880	x28	2017	25	ads_zoned_2017-04-15_part2_.xml.bz2
+ICT-sample1	x28-10340371	x28	2017	25	ads_zoned_2017-04-15_part2_.xml.bz2
+ICT-sample1	x28-15651555	x28	2018	21	ads_zoned_2018-02-15_part10.xml.bz2
+ICT-sample1	x28-15647925	x28	2018	25	ads_zoned_2018-02-15_part10.xml.bz2
+ICT-sample1	x28-15651581	x28	2018	21	ads_zoned_2018-02-15_part10.xml.bz2
+ICT-sample1	x28-15637569	x28	2018	21	ads_zoned_2018-02-15_part10.xml.bz2
+ICT-sample1	x28-15618715	x28	2018	25	ads_zoned_2018-02-15_part10.xml.bz2
+ICT-sample1	x28-15640914	x28	2018	21	ads_zoned_2018-02-15_part10.xml.bz2
+ICT-sample1	x28-6342980	x28	2014	25	ads_zoned_2014-12-15_part7_.xml.bz2
+ICT-sample1	x28-6344025	x28	2014	25	ads_zoned_2014-12-15_part7_.xml.bz2
+ICT-sample1	x28-6367546	x28	2014	25	ads_zoned_2014-12-15_part7_.xml.bz2
+ICT-sample1	x28-6367552	x28	2014	25	ads_zoned_2014-12-15_part7_.xml.bz2
+ICT-sample1	x28-6392933	x28	2014	25	ads_zoned_2014-12-15_part7_.xml.bz2
+ICT-sample1	x28-6375389	x28	2014	25	ads_zoned_2014-12-15_part7_.xml.bz2
+ICT-sample1	x28-6922219	x28	2015	25	ads_zoned_2015-09-15_part3_.xml.bz2
+ICT-sample1	x28-6982419	x28	2015	25	ads_zoned_2015-09-15_part3_.xml.bz2
+ICT-sample1	x28-6883106	x28	2015	25	ads_zoned_2015-09-15_part3_.xml.bz2
+ICT-sample1	x28-6997813	x28	2015	25	ads_zoned_2015-09-15_part3_.xml.bz2
+ICT-sample1	x28-6759584	x28	2015	25	ads_zoned_2015-09-15_part3_.xml.bz2
+ICT-sample1	x28-6732647	x28	2015	25	ads_zoned_2015-09-15_part3_.xml.bz2
+ICT-near-sample2	sjmm-32017190031686	sjmm	2017	92	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72017127924581	sjmm	2017	39	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32017190011014	sjmm	2017	88	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32017190011087	sjmm	2017	81	ads_annotated_17_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32018190191280	sjmm	2018	39	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72018101590136	sjmm	2018	71	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32018190010272	sjmm	2018	23	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72018108813342	sjmm	2018	71	ads_annotated_18_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72019108034227	sjmm	2019	35	ads_annotated_19_LSTM_v5.xml
+ICT-near-sample2	sjmm-72019112711331	sjmm	2019	88	ads_annotated_19_LSTM_v5.xml
+ICT-near-sample2	sjmm-72019114610410	sjmm	2019	23	ads_annotated_19_LSTM_v5.xml
+ICT-near-sample2	sjmm-32019190031125	sjmm	2019	23	ads_annotated_19_LSTM_v5.xml
+ICT-near-sample2	sjmm-22010107712076	sjmm	2010	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12001131120024	sjmm	2001	39	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-22011107712511	sjmm	2011	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-32010190050303	sjmm	2010	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-22010109801556	sjmm	2010	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-22010112080110	sjmm	2010	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-32011190010227	sjmm	2011	80	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12003131180034	sjmm	2003	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12008121110009	sjmm	2008	80	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12007131120018	sjmm	2007	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-22011109701439	sjmm	2011	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12005121110011	sjmm	2005	30	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12005121020019	sjmm	2005	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-22011108891791	sjmm	2011	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12008141190010	sjmm	2008	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12006151060008	sjmm	2006	80	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12008131230003	sjmm	2008	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12014131050012	sjmm	2014	39	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12008151060002	sjmm	2008	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12014122130011	sjmm	2014	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12003131120048	sjmm	2003	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12014141230001	sjmm	2014	39	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12013121020029	sjmm	2013	39	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12003131010003	sjmm	2003	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12006131050010	sjmm	2006	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12002131070015	sjmm	2002	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12005131050025	sjmm	2005	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12007131070019	sjmm	2007	35	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12007131070003	sjmm	2007	31	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12012122150010	sjmm	2012	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12004131120025	sjmm	2004	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12014132210002	sjmm	2014	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12012122150009	sjmm	2012	30	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12004121110009	sjmm	2004	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12009111190008	sjmm	2009	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12007131190007	sjmm	2007	39	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12005121020023	sjmm	2005	30	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12012122130012	sjmm	2012	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12004131230005	sjmm	2004	80	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12001131170014	sjmm	2001	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12013122180006	sjmm	2013	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12012121020016	sjmm	2012	30	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12009141190006	sjmm	2009	30	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12002131050017	sjmm	2002	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12003141140006	sjmm	2003	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12006131120047	sjmm	2006	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12001122130002	sjmm	2001	80	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12002141140008	sjmm	2002	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12009131120006	sjmm	2009	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12002131180013	sjmm	2002	88	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12009151060006	sjmm	2009	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12004131120044	sjmm	2004	92	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12013141240036	sjmm	2013	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12001122120003	sjmm	2001	30	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12006131120048	sjmm	2006	81	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-12013131070028	sjmm	2013	39	ads_manual_annotated_5014_v5.xml.bz2
+ICT-near-sample2	sjmm-72016112051093	sjmm	2016	81	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72015108033682	sjmm	2015	35	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72015112051033	sjmm	2015	81	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-72016122454381	sjmm	2016	30	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-12015121110005	sjmm	2015	80	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32016190011205	sjmm	2016	81	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32016190010848	sjmm	2016	30	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	sjmm-32015190012010	sjmm	2015	71	ads_annotated_1516_LSTM_v5.xml.bz2
+ICT-near-sample2	adecco-6201619010028234	adecco	2016	30	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-6201619001029141	adecco	2016	88	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610803003734	adecco	2016	35	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610137003398	adecco	2016	81	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201612793004178	adecco	2016	23	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610505003547	adecco	2016	39	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-6201619001028319	adecco	2016	88	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610481004310	adecco	2016	35	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610524003654	adecco	2016	35	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610524003680	adecco	2016	35	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201610507002246	adecco	2016	81	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+ICT-near-sample2	adecco-8201831413002653	adecco	2018	39	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-6201839001023937	adecco	2018	35	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201830877003253	adecco	2018	81	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201830827001938	adecco	2018	31	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201831253004463	adecco	2018	81	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201831283004213	adecco	2018	88	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201831164003389	adecco	2018	88	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201831205001181	adecco	2018	81	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201831316004280	adecco	2018	39	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-8201830520000173	adecco	2018	23	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-6201839001024668	adecco	2018	81	ads_annotated_ji_instexte_2018_3_v5.xml.bz2
+ICT-near-sample2	adecco-6201749003055784	adecco	2017	35	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201740445000521	adecco	2017	30	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201741780000659	adecco	2017	39	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201740901000597	adecco	2017	39	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201741135003605	adecco	2017	71	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201741189003717	adecco	2017	88	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201740874003143	adecco	2017	71	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201740907002889	adecco	2017	39	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201749001044206	adecco	2017	88	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201740447003841	adecco	2017	30	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201740520000182	adecco	2017	23	ads_annotated_ji_instexte_2017_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201929018007893	adecco	2019	35	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-6201929003026112	adecco	2019	88	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201921316004297	adecco	2019	39	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201921316004302	adecco	2019	39	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201920424000010	adecco	2019	39	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-6201929001013191	adecco	2019	35	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201920520000208	adecco	2019	23	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201920142003764	adecco	2019	35	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201920489003940	adecco	2019	35	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201920546000293	adecco	2019	88	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201920803004101	adecco	2019	35	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+ICT-near-sample2	adecco-8201541795003077	adecco	2015	71	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201540524003388	adecco	2015	35	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201540350001553	adecco	2015	30	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201549019030164	adecco	2015	71	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201541269000549	adecco	2015	39	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201549001004595	adecco	2015	30	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201549001018505	adecco	2015	35	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201549001005513	adecco	2015	30	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-8201540524003435	adecco	2015	35	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201549003002900	adecco	2015	35	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6201549001008040	adecco	2015	80	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+ICT-near-sample2	adecco-6202029019004937	adecco	2020	23	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-6202029003017409	adecco	2020	88	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-8202020842001113	adecco	2020	23	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-8202021780001598	adecco	2020	39	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-6202029019006177	adecco	2020	80	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-6202029018007869	adecco	2020	35	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-8202021780001600	adecco	2020	39	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-6202029019004875	adecco	2020	23	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	adecco-8202022793004018	adecco	2020	23	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+ICT-near-sample2	x28-12656987	x28	2016	31	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12659961	x28	2016	71	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12656992	x28	2016	31	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12667478	x28	2016	30	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12668292	x28	2016	30	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12658347	x28	2016	31	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12677887	x28	2016	71	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12673614	x28	2016	88	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12658346	x28	2016	31	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12666987	x28	2016	31	ads_zoned_2016-09-15_part15.xml.bz2
+ICT-near-sample2	x28-12082087	x28	2016	30	ads_zoned_2016-07-15_part11.xml.bz2
+ICT-near-sample2	x28-12095942	x28	2016	71	ads_zoned_2016-07-15_part11.xml.bz2
+ICT-near-sample2	x28-15458877	x28	2017	35	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15477383	x28	2017	80	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15465003	x28	2017	23	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15455446	x28	2017	80	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15472391	x28	2017	31	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15474416	x28	2017	80	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15470004	x28	2017	23	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15474006	x28	2017	71	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15467156	x28	2017	30	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15452351	x28	2017	30	ads_zoned_2017-12-15_part13.xml.bz2
+ICT-near-sample2	x28-15309787	x28	2017	30	ads_zoned_2017-12-15_part10.xml.bz2
+ICT-near-sample2	x28-15299351	x28	2017	31	ads_zoned_2017-12-15_part10.xml.bz2
+ICT-near-sample2	x28-14874380	x28	2018	71	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14532859	x28	2018	71	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14840574	x28	2018	71	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14930700	x28	2018	80	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14831386	x28	2018	23	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14871273	x28	2018	23	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14893848	x28	2018	71	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14917764	x28	2018	23	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14624896	x28	2018	80	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-14742501	x28	2018	71	ads_zoned_2018-02-15_part4_.xml.bz2
+ICT-near-sample2	x28-12951805	x28	2018	80	ads_zoned_2018-01-15_part2_.xml.bz2
+ICT-near-sample2	x28-12060334	x28	2018	71	ads_zoned_2018-01-15_part2_.xml.bz2
+ICT-near-sample2	x28-5703807	x28	2014	80	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5730721	x28	2014	31	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5730693	x28	2014	31	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5724590	x28	2014	71	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5730626	x28	2014	80	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5705667	x28	2014	80	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5730706	x28	2014	31	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5709002	x28	2014	80	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-5716340	x28	2014	71	ads_zoned_2014-07-15_part11.xml.bz2
+ICT-near-sample2	x28-4361949	x28	2014	80	ads_zoned_2014-10-15_part2_.xml.bz2
+ICT-near-sample2	x28-4250936	x28	2014	23	ads_zoned_2014-10-15_part2_.xml.bz2
+ICT-near-sample2	x28-3575638	x28	2014	80	ads_zoned_2014-10-15_part2_.xml.bz2
+ICT-near-sample2	x28-7381197	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7384169	x28	2015	71	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7400726	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7384312	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7381198	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7381280	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7400468	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7381200	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7381195	x28	2015	31	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-7399497	x28	2015	23	ads_zoned_2015-05-15_part12.xml.bz2
+ICT-near-sample2	x28-8464349	x28	2015	23	ads_zoned_2015-11-15_part7_.xml.bz2
+ICT-near-sample2	x28-8497341	x28	2015	23	ads_zoned_2015-11-15_part7_.xml.bz2
+AllTopic-sample3	sjmm-32017190010831	sjmm	2017	21	ads_annotated_17_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-32017190191967	sjmm	2017	57	ads_annotated_17_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72017104583634	sjmm	2017	64	ads_annotated_17_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72017127634460	sjmm	2017	21	ads_annotated_17_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72018113540061	sjmm	2018	81	ads_annotated_18_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-32018190080661	sjmm	2018	20	ads_annotated_18_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72018105253963	sjmm	2018	70	ads_annotated_18_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-32018190010254	sjmm	2018	69	ads_annotated_18_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72019112723620	sjmm	2019	42	ads_annotated_19_LSTM_v5.xml
+AllTopic-sample3	sjmm-72019104383328	sjmm	2019	18	ads_annotated_19_LSTM_v5.xml
+AllTopic-sample3	sjmm-72019105232713	sjmm	2019	69	ads_annotated_19_LSTM_v5.xml
+AllTopic-sample3	sjmm-32019190010550	sjmm	2019	42	ads_annotated_19_LSTM_v5.xml
+AllTopic-sample3	sjmm-22010114062173	sjmm	2010	79	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-22011109412479	sjmm	2011	44	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-22010112341467	sjmm	2010	89	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-32010190050271	sjmm	2010	90	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12005122040005	sjmm	2005	20	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-22011107431139	sjmm	2011	55	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-32010190010310	sjmm	2010	94	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12013141240018	sjmm	2013	93	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12009122010018	sjmm	2009	14	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12008131230018	sjmm	2008	78	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-22011111921006	sjmm	2011	70	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-32011190050094	sjmm	2011	30	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12005142010002	sjmm	2005	1	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12002131010008	sjmm	2002	0	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12009121020008	sjmm	2009	92	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12002121110001	sjmm	2002	94	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12013122180014	sjmm	2013	32	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12007111200011	sjmm	2007	63	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12008142160006	sjmm	2008	79	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12008131180040	sjmm	2008	78	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12012121020039	sjmm	2012	13	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12004111200009	sjmm	2004	13	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12005122020021	sjmm	2005	52	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12014122040005	sjmm	2014	56	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12012141110012	sjmm	2012	26	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12014141170011	sjmm	2014	14	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12004131070004	sjmm	2004	47	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12003121020051	sjmm	2003	52	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12013121110002	sjmm	2013	47	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12008131180046	sjmm	2008	39	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12012131120015	sjmm	2012	53	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12005131200010	sjmm	2005	92	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12014141170031	sjmm	2014	88	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12007122040004	sjmm	2007	45	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12001131180039	sjmm	2001	30	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12003131010002	sjmm	2003	32	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12007121110007	sjmm	2007	33	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12001131170011	sjmm	2001	88	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12013121110006	sjmm	2013	39	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12002131120013	sjmm	2002	18	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12003151060010	sjmm	2003	91	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12001131120020	sjmm	2001	68	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12006121020033	sjmm	2006	93	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12007131180003	sjmm	2007	45	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12004121020038	sjmm	2004	55	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12012142010003	sjmm	2012	58	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12004131050024	sjmm	2004	51	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12003131170014	sjmm	2003	68	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12009131100002	sjmm	2009	43	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12001122010020	sjmm	2001	64	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12014132030010	sjmm	2014	0	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12006142160002	sjmm	2006	43	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12006132090001	sjmm	2006	26	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12009131050040	sjmm	2009	41	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12006131210001	sjmm	2006	51	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-12002131180057	sjmm	2002	56	ads_manual_annotated_5014_v5.xml.bz2
+AllTopic-sample3	sjmm-32015190012198	sjmm	2015	58	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72016104871313	sjmm	2016	90	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72016108072224	sjmm	2016	73	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-32015190012202	sjmm	2015	73	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72015112213106	sjmm	2015	27	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-32016190180722	sjmm	2016	4	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72016117734000	sjmm	2016	57	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	sjmm-72015117042627	sjmm	2015	37	ads_annotated_1516_LSTM_v5.xml.bz2
+AllTopic-sample3	adecco-8201730446000845	adecco	2017	8	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201731168003663	adecco	2017	8	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201731781000968	adecco	2017	15	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201730539003315	adecco	2017	34	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201730781004090	adecco	2017	24	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201730356003791	adecco	2017	96	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201731273003534	adecco	2017	9	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201731287004317	adecco	2017	28	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201731216003514	adecco	2017	16	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-6201739003032877	adecco	2017	1	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201730108003559	adecco	2017	23	ads_annotated_ji_instexte_2017_3_v5.xml.bz2
+AllTopic-sample3	adecco-8201610137003395	adecco	2016	81	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201610444002528	adecco	2016	38	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201610456000543	adecco	2016	33	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201611976001937	adecco	2016	36	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201611366001048	adecco	2016	38	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201611273004222	adecco	2016	9	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201611337003929	adecco	2016	3	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201610484003492	adecco	2016	59	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201610435002439	adecco	2016	27	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-6201619017030234	adecco	2016	25	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201611955001660	adecco	2016	59	ads_annotated_ji_instexte_2016_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201810529000548	adecco	2018	99	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201811312004238	adecco	2018	44	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201810140003703	adecco	2018	86	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201812757004589	adecco	2018	36	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201811057000307	adecco	2018	16	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201810479003630	adecco	2018	66	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201811971003090	adecco	2018	99	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201810520000168	adecco	2018	6	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201811782001733	adecco	2018	6	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201810935002782	adecco	2018	96	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201810919004099	adecco	2018	23	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201541859001750	adecco	2015	97	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201542713002973	adecco	2015	89	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-6201549001017703	adecco	2015	4	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201541349002923	adecco	2015	41	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201541267000127	adecco	2015	28	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-6201549001021165	adecco	2015	77	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201541773003821	adecco	2015	24	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201541796000565	adecco	2015	95	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-6201549001007260	adecco	2015	37	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201540870002157	adecco	2015	71	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-6201549019029051	adecco	2015	11	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+AllTopic-sample3	adecco-8201910789001105	adecco	2019	61	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201911246000737	adecco	2019	91	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201911337004339	adecco	2019	3	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910447003833	adecco	2019	86	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910448000502	adecco	2019	95	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910484003876	adecco	2019	80	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910117001803	adecco	2019	61	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910532003518	adecco	2019	71	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201911779004438	adecco	2019	87	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910803004228	adecco	2019	35	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8201910904002436	adecco	2019	63	ads_annotated_ji_instexte_2019_1_v5.xml.bz2
+AllTopic-sample3	adecco-8202021454004069	adecco	2020	66	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-8202020514002421	adecco	2020	75	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-8202020209002298	adecco	2020	25	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-8202020541000850	adecco	2020	7	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-8202021797002008	adecco	2020	62	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-8202021220004127	adecco	2020	62	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-8202021785003770	adecco	2020	98	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-6202029018007032	adecco	2020	35	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	adecco-6202029017014744	adecco	2020	40	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+AllTopic-sample3	x28-12422568	x28	2016	82	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12416053	x28	2016	17	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12418377	x28	2016	17	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12425415	x28	2016	48	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12429058	x28	2016	83	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12414327	x28	2016	65	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12416864	x28	2016	72	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12433348	x28	2016	40	ads_zoned_2016-09-15_part10.xml.bz2
+AllTopic-sample3	x28-12670182	x28	2016	48	ads_zoned_2016-09-15_part15.xml.bz2
+AllTopic-sample3	x28-12674303	x28	2016	72	ads_zoned_2016-09-15_part15.xml.bz2
+AllTopic-sample3	x28-12658451	x28	2016	80	ads_zoned_2016-09-15_part15.xml.bz2
+AllTopic-sample3	x28-12666528	x28	2016	29	ads_zoned_2016-09-15_part15.xml.bz2
+AllTopic-sample3	x28-14783147	x28	2017	65	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14787366	x28	2017	22	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14786901	x28	2017	10	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14787242	x28	2017	85	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14788797	x28	2017	12	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14774390	x28	2017	31	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14788796	x28	2017	12	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14782673	x28	2017	19	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14773241	x28	2017	50	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-14773252	x28	2017	10	ads_zoned_2017-07-15_part16.xml.bz2
+AllTopic-sample3	x28-13769518	x28	2017	2	ads_zoned_2017-02-15_part11.xml.bz2
+AllTopic-sample3	x28-13766972	x28	2017	82	ads_zoned_2017-02-15_part11.xml.bz2
+AllTopic-sample3	x28-16768619	x28	2018	75	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16768258	x28	2018	97	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16771718	x28	2018	19	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16771801	x28	2018	54	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16775259	x28	2018	5	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16770479	x28	2018	50	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16771883	x28	2018	84	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16773528	x28	2018	5	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16771805	x28	2018	54	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-16772901	x28	2018	76	ads_zoned_2018-08-15_part23.xml.bz2
+AllTopic-sample3	x28-11448254	x28	2018	29	ads_zoned_2018-01-15_part1_.xml.bz2
+AllTopic-sample3	x28-10868458	x28	2018	34	ads_zoned_2018-01-15_part1_.xml.bz2
+AllTopic-sample3	x28-6224075	x28	2014	76	ads_zoned_2014-10-15_part11.xml.bz2
+AllTopic-sample3	x28-6223458	x28	2014	31	ads_zoned_2014-10-15_part11.xml.bz2
+AllTopic-sample3	x28-6220124	x28	2014	77	ads_zoned_2014-10-15_part11.xml.bz2
+AllTopic-sample3	x28-6217699	x28	2014	7	ads_zoned_2014-10-15_part11.xml.bz2
+AllTopic-sample3	x28-6085150	x28	2014	98	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6091977	x28	2014	84	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6083510	x28	2014	53	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6071259	x28	2014	46	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6117438	x28	2014	74	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6083435	x28	2014	83	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6079570	x28	2014	87	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-6028398	x28	2014	74	ads_zoned_2014-11-15_part6_.xml.bz2
+AllTopic-sample3	x28-7412471	x28	2015	11	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-7414157	x28	2015	22	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-7433635	x28	2015	2	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-7203838	x28	2015	46	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-7442780	x28	2015	85	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-7463661	x28	2015	60	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-7320412	x28	2015	49	ads_zoned_2015-09-15_part4_.xml.bz2
+AllTopic-sample3	x28-6676385	x28	2015	60	ads_zoned_2015-03-15_part5_.xml.bz2
+AllTopic-sample3	x28-8908679	x28	2015	49	ads_zoned_2015-12-15_part6_.xml.bz2
+AllTopic-sample3	x28-9096483	x28	2015	67	ads_zoned_2015-12-15_part6_.xml.bz2
+AllTopic-sample3	x28-5360935	x28	2015	67	ads_zoned_2015-02-15_part3_.xml.bz2
+AllTopic-sample3	x28-8125995	x28	2015	15	ads_zoned_2015-09-15_part10.xml.bz2
+FinalDevset-1	sjmm-32017190010915	sjmm	2017	6	ads_annotated_17_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-72017108870118	sjmm	2017	61	ads_annotated_17_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-72018112883609	sjmm	2018	16	ads_annotated_18_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-72018105524400	sjmm	2018	18	ads_annotated_18_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-72019109951109	sjmm	2019	81	ads_annotated_19_LSTM_v5.xml
+FinalDevset-1	sjmm-72019104341125	sjmm	2019	38	ads_annotated_19_LSTM_v5.xml
+FinalDevset-1	sjmm-32011190011074	sjmm	2011	51	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12009121020003	sjmm	2009	92	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-32011190011264	sjmm	2011	86	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-22010104810846	sjmm	2010	13	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12009131180024	sjmm	2009	93	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-22010112080044	sjmm	2010	44	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12008131120030	sjmm	2008	57	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12007122150005	sjmm	2007	20	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12004141140004	sjmm	2004	37	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12014112120004	sjmm	2014	32	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12007151020005	sjmm	2007	43	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12006111200008	sjmm	2006	89	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12012122150012	sjmm	2012	79	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12014131260001	sjmm	2014	33	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12001142010002	sjmm	2001	94	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12004151070001	sjmm	2004	55	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12006131120004	sjmm	2006	21	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12012122130006	sjmm	2012	85	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12013141170012	sjmm	2013	78	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12008122020024	sjmm	2008	14	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12002121020038	sjmm	2002	1	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12002152030009	sjmm	2002	45	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12005131190028	sjmm	2005	42	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12005131070031	sjmm	2005	47	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12003131170013	sjmm	2003	91	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12013141230002	sjmm	2013	39	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12001131120012	sjmm	2001	12	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-12003131180042	sjmm	2003	70	ads_manual_annotated_5014_v5.xml.bz2
+FinalDevset-1	sjmm-32015190011655	sjmm	2015	80	ads_annotated_1516_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-72016112734226	sjmm	2016	9	ads_annotated_1516_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-72016105181547	sjmm	2016	30	ads_annotated_1516_LSTM_v5.xml.bz2
+FinalDevset-1	sjmm-32015190011883	sjmm	2015	75	ads_annotated_1516_LSTM_v5.xml.bz2
+FinalDevset-1	adecco-8202021519001041	adecco	2020	4	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+FinalDevset-1	adecco-8202020458003296	adecco	2020	64	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+FinalDevset-1	adecco-6202029007001295	adecco	2020	36	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+FinalDevset-1	adecco-8202020487001701	adecco	2020	25	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+FinalDevset-1	adecco-8202021135003017	adecco	2020	24	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+FinalDevset-1	adecco-6202029007001605	adecco	2020	8	ads_annotated_ji_instexte_2020_2_v5.xml.bz2
+FinalDevset-1	adecco-8201711279004130	adecco	2017	63	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+FinalDevset-1	adecco-8201711323000047	adecco	2017	59	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+FinalDevset-1	adecco-8201711220000551	adecco	2017	62	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+FinalDevset-1	adecco-8201710481003722	adecco	2017	98	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+FinalDevset-1	adecco-8201710879001559	adecco	2017	3	ads_annotated_ji_instexte_2017_1_v5.xml.bz2
+FinalDevset-1	adecco-8201810525003946	adecco	2018	90	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+FinalDevset-1	adecco-8201811796000649	adecco	2018	95	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+FinalDevset-1	adecco-8201810513000837	adecco	2018	7	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+FinalDevset-1	adecco-8201811233002399	adecco	2018	41	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+FinalDevset-1	adecco-8201811779004369	adecco	2018	87	ads_annotated_ji_instexte_2018_1_v5.xml.bz2
+FinalDevset-1	adecco-8201920504003529	adecco	2019	22	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+FinalDevset-1	adecco-8201921971003122	adecco	2019	99	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+FinalDevset-1	adecco-8201921080000513	adecco	2019	67	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+FinalDevset-1	adecco-6201929001015774	adecco	2019	26	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+FinalDevset-1	adecco-8201920479003705	adecco	2019	66	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+FinalDevset-1	adecco-8201921431003049	adecco	2019	27	ads_annotated_ji_instexte_2019_2_v5.xml.bz2
+FinalDevset-1	adecco-6201649014004298	adecco	2016	35	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+FinalDevset-1	adecco-8201641330001767	adecco	2016	88	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+FinalDevset-1	adecco-8201641784004146	adecco	2016	23	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+FinalDevset-1	adecco-8201640543003755	adecco	2016	73	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+FinalDevset-1	adecco-8201640791003245	adecco	2016	34	ads_annotated_ji_instexte_2016_4_v5.xml.bz2
+FinalDevset-1	adecco-8201541265000310	adecco	2015	0	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+FinalDevset-1	adecco-8201540492000831	adecco	2015	2	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+FinalDevset-1	adecco-8201540433002699	adecco	2015	82	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+FinalDevset-1	adecco-8201541153001384	adecco	2015	31	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+FinalDevset-1	adecco-8201541287003720	adecco	2015	28	ads_annotated_ji_instexte_2015_4_v5.xml.bz2
+FinalDevset-1	x28-12878138	x28	2016	52	ads_zoned_2016-12-15_part7_.xml.bz2
+FinalDevset-1	x28-12823348	x28	2016	48	ads_zoned_2016-12-15_part7_.xml.bz2
+FinalDevset-1	x28-12844293	x28	2016	76	ads_zoned_2016-12-15_part7_.xml.bz2
+FinalDevset-1	x28-12942524	x28	2016	97	ads_zoned_2016-12-15_part7_.xml.bz2
+FinalDevset-1	x28-12881070	x28	2016	40	ads_zoned_2016-12-15_part7_.xml.bz2
+FinalDevset-1	x28-12824768	x28	2016	65	ads_zoned_2016-12-15_part7_.xml.bz2
+FinalDevset-1	x28-4051529	x28	2017	71	ads_zoned_2017-03-15_part1_.xml.bz2
+FinalDevset-1	x28-10084949	x28	2017	5	ads_zoned_2017-03-15_part1_.xml.bz2
+FinalDevset-1	x28-6714171	x28	2017	56	ads_zoned_2017-03-15_part1_.xml.bz2
+FinalDevset-1	x28-10084202	x28	2017	46	ads_zoned_2017-03-15_part1_.xml.bz2
+FinalDevset-1	x28-4643802	x28	2017	29	ads_zoned_2017-03-15_part1_.xml.bz2
+FinalDevset-1	x28-7692186	x28	2017	17	ads_zoned_2017-03-15_part1_.xml.bz2
+FinalDevset-1	x28-15709967	x28	2018	19	ads_zoned_2018-03-15_part9_.xml.bz2
+FinalDevset-1	x28-15685348	x28	2018	83	ads_zoned_2018-03-15_part9_.xml.bz2
+FinalDevset-1	x28-15693180	x28	2018	53	ads_zoned_2018-03-15_part9_.xml.bz2
+FinalDevset-1	x28-15712766	x28	2018	50	ads_zoned_2018-03-15_part9_.xml.bz2
+FinalDevset-1	x28-15697533	x28	2018	68	ads_zoned_2018-03-15_part9_.xml.bz2
+FinalDevset-1	x28-15713905	x28	2018	96	ads_zoned_2018-03-15_part9_.xml.bz2
+FinalDevset-1	x28-4505724	x28	2014	69	ads_zoned_2014-03-15_part6_.xml.bz2
+FinalDevset-1	x28-4433038	x28	2014	72	ads_zoned_2014-03-15_part6_.xml.bz2
+FinalDevset-1	x28-4488523	x28	2014	58	ads_zoned_2014-03-15_part6_.xml.bz2
+FinalDevset-1	x28-4563628	x28	2014	84	ads_zoned_2014-03-15_part6_.xml.bz2
+FinalDevset-1	x28-4508752	x28	2014	11	ads_zoned_2014-03-15_part6_.xml.bz2
+FinalDevset-1	x28-4470321	x28	2014	74	ads_zoned_2014-03-15_part6_.xml.bz2
+FinalDevset-1	x28-6013941	x28	2015	77	ads_zoned_2015-11-15_part2_.xml.bz2
+FinalDevset-1	x28-4309958	x28	2015	49	ads_zoned_2015-02-15_part2_.xml.bz2
+FinalDevset-1	x28-7747582	x28	2015	15	ads_zoned_2015-09-15_part6_.xml.bz2
+FinalDevset-1	x28-7687900	x28	2015	60	ads_zoned_2015-09-15_part6_.xml.bz2
+FinalDevset-1	x28-7791140	x28	2015	54	ads_zoned_2015-09-15_part6_.xml.bz2
+FinalDevset-1	x28-7810108	x28	2015	10	ads_zoned_2015-08-15_part8_.xml.bz2
