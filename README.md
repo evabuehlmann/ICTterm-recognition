@@ -1,5 +1,5 @@
 ## Recognition of ICT terms in German JobAds
-### Scripts related to Bachelor Thesis
+### Scripts/Data related to Bachelor Thesis, Eva Bühlmann
 
 #### Scripts
 * **extract_sample-0.py** 
